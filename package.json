@@ -1,6 +1,7 @@
 {
-  "name": "next-template",
-  "version": "0.1.0",
+  "name": "ts-nextjs-template",
+  "version": "1.0.0",
+  "description": "Modern NextJS Boilerplate",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,6 +9,9 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "keywords": [],
+  "license": "ISC",
+  "author": "WolfieLeader",
   "dependencies": {
     "axios": "^0.27.2",
     "next": "12.2.5",
@@ -24,6 +28,5 @@
     "eslint-config-prettier": "^8.5.0",
     "prettier": "^2.7.1",
     "typescript": "4.8.2"
-  },
-  "author": "WolfieLeader"
+  }
 }

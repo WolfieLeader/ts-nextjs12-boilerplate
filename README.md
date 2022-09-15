@@ -1,1 +1,1 @@
-Next JS template with typescript
+#Modern NextJS Boilerplate
